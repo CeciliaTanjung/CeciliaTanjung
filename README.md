@@ -1,9 +1,5 @@
-# 🪐 Halo! Saya Cecilia Tanjung
+# 🍋 Halo! Saya Cecilia Tanjung 
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 Saya adalah pelajar Indonesia yang memiliki ketertarikan tinggi pada persimpangan antara teknologi, logika matematika, dan seni visual.
 
@@ -15,7 +11,7 @@ Saya adalah pelajar Indonesia yang memiliki ketertarikan tinggi pada persimpanga
 
 ---
 
-## 🚀 Proyek yang Sedang Dikembangkan (Projects)
+## 🌴 Proyek yang Sedang Dikembangkan (Projects)
 
 *   **Website Portofolio Pribadi:** halaman web utama untuk merangkum perkembangan belajar dan karya digital saya.
 *   **Kalkulator Y2K Aesthetic (Mini Calculator):** eksperimen web berbasis HTML, CSS, dan JavaScript dengan fokus pada logika hitung cepat dan konsep visual era Y2K.
