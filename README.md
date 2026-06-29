@@ -4,9 +4,13 @@
 Saya adalah pelajar Indonesia yang memiliki ketertarikan tinggi pada persimpangan antara teknologi, logika matematika, dan seni visual.
 
 ### Bidang Fokus & Ketertarikan:
+
 -**Web Development** pemrograman dasar seperti JavaScript dan Phyton
+
 -**Digital Media Technology**
+
 -**Bahasa Mandarin** (Target: Menuju HSK 4/5 untuk kejar beasiswa)
+
 -**UI/UX Design** konsep estetika digital
 
 ---
