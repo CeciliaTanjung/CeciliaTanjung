@@ -22,11 +22,4 @@ Saya adalah pelajar Indonesia yang memiliki ketertarikan tinggi pada persimpanga
 *   **Kalkulator Y2K Aesthetic (Mini Calculator):** eksperimen web berbasis HTML, CSS, dan JavaScript dengan fokus pada logika hitung cepat dan konsep visual era Y2K.
 
 
----
-
-## 📈 Statistik Aktivitas Belajar (GitHub Stats)
-
-<p align="left">
-  <img src="https://vercel.app" alt="Statistik GitHub Cecilia" />
-</p>
 
