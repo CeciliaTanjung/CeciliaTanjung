@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🪐 Halo! Saya Cecilia Tanjung
 
-<!--
-**CeciliaTanjung/CeciliaTanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-Here are some ideas to get you started:
+Saya adalah pelajar Indonesia yang memiliki ketertarikan tinggi pada persimpangan antara teknologi, logika matematika, dan seni visual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bidang Fokus & Ketertarikan:
+-**Web Development** pemrograman dasar seperti JavaScript dan Phyton
+-**Digital Media Technology**
+-**Bahasa Mandarin** (Target: Menuju HSK 4/5 untuk kejar beasiswa)
+-**UI/UX Design** konsep estetika digital
+
+---
+
+## 🚀 Proyek yang Sedang Dikembangkan (Projects)
+
+*   **Website Portofolio Pribadi:** halaman web utama untuk merangkum perkembangan belajar dan karya digital saya.
+*   **Kalkulator Y2K Aesthetic (Mini Calculator):** eksperimen web berbasis HTML, CSS, dan JavaScript dengan fokus pada logika hitung cepat dan konsep visual era Y2K.
+
+
+---
+
+## 📈 Statistik Aktivitas Belajar (GitHub Stats)
+<p align="left">
+  <img src="https://vercel.app" alt="Statistik GitHub Cecilia" />
+</p>
+
